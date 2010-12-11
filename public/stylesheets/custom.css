@@ -140,11 +140,12 @@ td.sidebar {
 }
 
 /* user_show_sidebar_css  above */
+
 /* Styling for Error Messages */
 .field_with_errors {
   margin-top: 10px;
   padding: 2px;
-  background-color: #FF5024;
+  background-color: #FFAD5C;
   display: table;
 }
 
@@ -154,7 +155,7 @@ td.sidebar {
 
 #error_explanation {
   width: 400px;
-  border: 2px solid red;
+  border: 2px solid #FFAD5C;
   padding: 7px;
   padding-bottom: 12px;
   margin-bottom: 20px;
@@ -167,7 +168,7 @@ td.sidebar {
   padding: 5px 5px 5px 15px;
   font-size: 12px;
   margin: -7px;
-  background-color: #FF5024;
+  background-color: #FFAD5C;
   color: #fff;
 }
 
