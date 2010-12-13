@@ -189,4 +189,14 @@ div.field, div.actions {
 }
 /* END Adjustment for Fields bottom margin */
 
+/* Styles for all users view list index.html.erb */
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+/* END Styles for all users view list index.html.erb */
+
 
